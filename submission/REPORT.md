@@ -1,6 +1,6 @@
 # Lab 21 — Evaluation Report
 
-**Họ tên**: Phạm Đặng Khương Duy  **MSSV**: 202601982  **Ngày**: 2026-08-21
+**Họ tên**: Phạm Đặng Khương Duy  **MSSV**: 2A202601982  **Ngày**: 2026-08-21
 **Tier**: `T4`  **Base model**: `unsloth/Qwen3.5-4B`  **GPU thực tế**: `T4 16GB`
 
 > Mọi con số dưới đây phải khớp với file trong `results/`. Grader kiểm tra chéo.
