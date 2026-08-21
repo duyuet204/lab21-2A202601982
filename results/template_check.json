@@ -1,7 +1,3 @@
-{
-  "ok": true,
-  "open_tag_present": true,
-  "body_present": true,
-  "rendered": "<|im_start|>user\n2+2?<|im_end|>\n<|im_start|>assistant\n<think>\nbuoc 1: kiem tra. buoc 2: tra loi.\n</think>\n\n4<|im_end|>\n",
-  "verdict": "reasoning preserved — safe to train on traces"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:70d2cdec945ef5c196a0064f7379295487f3ea15d61b63455b8ffd285babe5ce
+size 277

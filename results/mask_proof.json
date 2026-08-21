@@ -1,10 +1,3 @@
-{
-  "mask_mode": "assistant-only",
-  "n_supervised": 39,
-  "n_total": 94,
-  "supervised_fraction": 0.4149,
-  "answer_is_supervised": true,
-  "question_is_masked": true,
-  "supervised_preview": "</think>\n\n{\"intent\": \"doi_tra\", \"urgency\": \"trung_binh\", \"product\": \"balo laptop\", \"sentiment\": \"trung_tinh\"}<|im_end|>\n",
-  "masked_preview": "<|im_start|>system\nPhân loại ticket sau.<|im_end|>\n<|im_start|>user\nAlo shop, mình đặt balo laptop mã đơn VN411453. Cho tôi trả lại. Đã 3 ngày rồi. Cho tôi hỏi.<|im_end|>\n<|im_start|>assistant\n<think>\n\n"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7d94d282e36b594dd2d8045e6b278844fc2f5bd1bf4ca71831bc73dd09dc910
+size 592
